@@ -3,8 +3,7 @@
 The following code mimics a simplistic banking system, where the user is presented with a dynamic command line interface. The architecture of the program is depicted as follows:
 
 
-
-        ![BankAccountArchitecture](https://github.com/Aaron-O-Gonzalez/BankAccount/blob/master/BankAccountArchitecture.png)
+![BankAccountArchitecture](https://github.com/Aaron-O-Gonzalez/BankAccount/blob/master/BankAccountArchitecture.png)
 
 
 
