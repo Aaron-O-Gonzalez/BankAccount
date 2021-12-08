@@ -4,7 +4,7 @@ The following code mimics a simplistic banking system, where the user is present
 
 
 
-![BankAccountArchitecture](/Users/aarongonzalez/Desktop/BankAccount/BankAccountArchitecture.png)
+![BankAccountArchitecture](https://github.com/Aaron-O-Gonzalez/BankAccount/blob/master/BankAccountArchitecture.png)
 
 
 
